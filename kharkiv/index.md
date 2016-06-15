@@ -99,23 +99,65 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, dolorem impedit rem nulla omnis voluptatum porro possimus, fuga eos necessitatibus excepturi veniam. Natus et ex harum amet ad exercitationem voluptate necessitatibus quam, non odit nobis asperiores tenetur tempora ipsam neque aperiam ipsa culpa repellendus dolorum expedita maiores ut vitae.
 ---
 
-## Summary
+## City Background
 
 ![kharkiv]( {{ site.baseurl }}/img/kharkiv/LopanStrelkaKharkov.jpg)
 
-Kharkiv was founded in 1654 and after a humble beginning as a small fortress grew to become a major centre of Ukrainian culture within the Russian Empire. Kharkiv became the first city in Ukraine occupied by Soviet troops in December 1917. It functioned as the first capital of the Ukrainian Soviet Socialist Republic until January 1935, after which the capital relocated to Kiev. Kharkiv is the administrative center of Kharkiv Oblast and of the surrounding Kharkiv district.
+Kharkiv has a population of 1.451 million people (2014), the second largest in Ukraine. Although the majority of the population is Ukrainian both in nationality and ethnicity, Kharkiv’s largest minority is of Russian descent due to its history and proximity to Russia. 
 
-Kharkiv has a population of 1.451 million people (2014), the second largest in Ukraine. Although the majority of the population is Ukrainian both in nationality and ethnicity, Kharkiv’s largest minority is of Russian descent due to it’s history and proximity to Russia.
+Kharkiv was founded in 1654 as a small fortress; it grew to become a major center of Ukrainian culture within the Russian Empire. It functioned as the first capital of the Ukrainian Soviet Socialist Republic until January 1935, after which the capital relocated to Kiev. Kharkiv is the administrative center of Kharkiv Oblast and of the surrounding Kharkiv district.
+
+## About the Project
+
+The Kharkiv Secondary City (2C) project focuses on development of geospatial data for the human geography theme of Emergency Preparedness. Data is being collected for vulnerable populations, including the elderly, people with disabilities, gender-based vulnerabilities, and internally-displaced persons.
+
+## Goals
+
+The project will build partnerships with local universities, government, NGOs and the private sector to create geospatial data on Kharkiv; enhance the understanding and management of the city through better data and mapping; build resiliency and develop local capacity in geospatial science-based decision making; provide open geospatial data solutions; and empower the community and facilitate the creation of long-term partnerships and networks.
 
 ## Partners
 
 [Kharkiv City Government](http://www.city.kharkov.ua/en/o-xarkove/nagradyi-soveta-evropyi.html)
-
+[Kharkiv Information Center]
 [Kharkiv National University Government](http://www.univer.kharkov.ua/en)
+[V.N. Karazin Kharkiv National University]
+[Kharkiv University of Urban Economics]
+[Kharkiv National University of Radio Electronics]
+[National University of Civil Protection of Ukraine]
+[Kharkiv National Aerospace University]
 
-## Upcoming Events
+## Data
 
-- 3rd Secondary Cities Workshop, September 2016
+Discovered (CSU)
+-	LandSat
+-	DEM
+-	Etc.
 
+Provided (SPAERO & Kharkiv City Information Center)
+-	Infrastructure
+-	Transportation
+-	Hydrology
+-	Cultural features
+-	Landuse/landcover
+-	Cadastre
+-	Administrative 
 
+Created (Participants)
+-	Mobility (location of curb cuts, stairs or ramps)
+-	Community resources (childcare, employment, healthcare, housing, social/general)
+-	Public safety (evacuation location; location of streetlights/lamp posts)
+
+## Results
+
+Insert pictures of field work / mapping / screenshots of mapped data
+Mobility: 1077 new points
+Public safety:  10,757 new points
+Community resources: 1909 new points
+
+## Events
+
+Workshop: September, 2016 @ National University of Urban Economics
+Workshop: May 10-14, 2016 @ Karazin University 
+GeoForum: March 17-18, 2016 @ Karazin University
+Scoping trip: January 31-February 6, 2016 @ various organizations in Kiev & Kharkiv 
 
